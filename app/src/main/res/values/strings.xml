@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Shootout</string>
+    <string name="diff">Difficulty</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score:</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="tutorial_text">Questions will appear on screen paired with an answer. Tap the screen or shake the device to shoot the right pair.\n\nDon\'t shoot incorrect answers and don\'t miss correct answers!\n\nShake the device to return to the title screen.</string>
+    <string name="highscores">Highscores</string>
+    <string name="first">1st: </string>
+    <string name="second">2nd: </string>
+    <string name="third">3rd: </string>
+
+    <string-array name="question1">
+        <item>Pythagoras\' theorem is…</item>
+        <item>A²+B²=C²</item>
+        <item>SOHCAHTOA</item>
+        <item>Opposite over Adjacent</item>
+    </string-array>
+
+    <string-array name="question2">
+        <item>Sine equals…</item>
+        <item>Opposite over Hypotenuse</item>
+        <item>The square root of the Adjacent</item>
+        <item>A wave</item>
+    </string-array>
+
+    <string-array name="question3">
+        <item>All the angles of a triangle add to…</item>
+        <item>180 degrees</item>
+        <item>360 degrees</item>
+        <item>270 degrees</item>
+    </string-array>
+</resources>
